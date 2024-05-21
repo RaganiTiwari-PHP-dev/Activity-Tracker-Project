@@ -1,0 +1,51 @@
+
+    /* Add some basic styling to the carousel */
+   .carousel {
+        margin: 40px auto;
+        width: 80%;
+    }
+
+    /* Make the images responsive */
+   .carousel-inner img {
+        width: 100%;
+        height: 400px; /* Set a fixed height for the images */
+        object-fit: cover; /* Make the images cover the entire carousel */
+    }
+
+    /* Add some design to the carousel controls */
+   .carousel-control-prev,.carousel-control-next {
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+   .carousel-control-prev:hover,.carousel-control-next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+
+    /* Add some design to the carousel indicators */
+   .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: #ccc;
+    }
+
+   .carousel-indicators li.active {
+        background-color: #666;
+    }
+
+    /* Add some design to the content section */
+   .content {
+        text-align: center;
+        padding: 20px;
+    }
+
+   .content p {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+    }
