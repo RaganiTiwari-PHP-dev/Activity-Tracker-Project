@@ -1,10 +1,11 @@
 #MY PROJECT LOOKS LIKE THAT PLEASE VIEW THESE IMAGES
-![Screenshot (10)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/04be55e7-f72a-4e66-8880-7c8d02f05e93)
-![Screenshot (9)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/b00f3e32-2834-42de-be28-0a997b3c9f3b)
-![Screenshot (8)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/25056f67-28fd-469e-8f08-9dcaf8a4b5b3)
-![Screenshot (7)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/c213d883-80e1-43ea-a2b7-9f36b07b541a)
-![Screenshot (6)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/5af369fb-286e-41ec-807d-f65c6a39974a)
+
 ![Screenshot (5)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/c7b21c49-eea2-457b-b8bb-29864bd4ace9)
+![Screenshot (6)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/5af369fb-286e-41ec-807d-f65c6a39974a)
+![Screenshot (7)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/c213d883-80e1-43ea-a2b7-9f36b07b541a)
+![Screenshot (8)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/25056f67-28fd-469e-8f08-9dcaf8a4b5b3)
+![Screenshot (9)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/b00f3e32-2834-42de-be28-0a997b3c9f3b)
+![Screenshot (10)](https://github.com/RaganiTiwari-PHP-dev/Activity-Tracker-Project/assets/154034903/04be55e7-f72a-4e66-8880-7c8d02f05e93)
 
 
 
